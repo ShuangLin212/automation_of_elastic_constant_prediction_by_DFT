@@ -1,1 +1,1 @@
-# automation_of_elastic_constant_prediction_by_DFT
+# Automation_of_elastic_constant_prediction_by_DFT
